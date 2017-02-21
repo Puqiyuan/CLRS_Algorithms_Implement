@@ -1,3 +1,14 @@
+/*
+  The test result:
+  pqy@sda1:~/.../heap_sort$ ./a.out 
+  the length of the array:10 
+  input the elements of array:
+  67 23 9 1 9 100 34 89 0 2
+  After sorted:
+  0 1 2 9 9 23 34 67 89 100
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
