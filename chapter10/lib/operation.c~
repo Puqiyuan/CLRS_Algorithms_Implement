@@ -1,0 +1,7 @@
+bool stack_empty(Stack S)
+{
+  if (S.top == 0)
+    return TRUE;
+
+  return FALSE;	 
+}
